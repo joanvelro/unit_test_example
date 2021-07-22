@@ -1,2 +1,2 @@
-# Dummmy Project - Testing
+# Unit Testing Example
 
